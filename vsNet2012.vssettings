@@ -725,8 +725,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 												<ViewBookmark Name="ST:3:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell"/>
 												<ViewBookmark Name="ST:5:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell"/>
 												<ViewBookmark Name="ST:54:0:{cb4d394c-6408-4607-8c42-0910d3147a4e}" ViewBookmarkType="DocumentWell"/>
-												<ViewBookmark Name="D:0:0:{332E7577-4A08-4DCD-B74E-4A7192001EE2}|Nordstrom.Web.External\Nordstrom.Web.External.csproj|d:\dw-source\mainline\src\shop\nordstrom.web.external\mvc\mobileredirectactionfilter.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell"/>
-												<ViewBookmark Name="D:0:0:{757FBCF8-7745-4979-935E-5B71D0562076}|..\Nordstrom.Contracts\Nordstrom.Contracts\Nordstrom.Contracts.csproj|d:\dw-source\mainline\src\nordstrom.contracts\nordstrom.contracts\data\fashionsearch\fashion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell"/>
+												
 											</wm:WMDocumentGroup>
 											<wm:WMDocumentGroup DockedWidth="2011">
 												<ViewBookmark Name="ST:0:0:{4963bea4-8a53-46f0-912f-7536594a8767}" ViewBookmarkType="DocumentWell" DockedWidth="2011"/>
@@ -902,8 +901,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 														<ViewBookmark Name="ST:3:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
 														<ViewBookmark Name="ST:5:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
 														<ViewBookmark Name="ST:54:0:{cb4d394c-6408-4607-8c42-0910d3147a4e}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
-														<ViewBookmark Name="D:0:0:{332E7577-4A08-4DCD-B74E-4A7192001EE2}|Nordstrom.Web.External\Nordstrom.Web.External.csproj|d:\dw-source\mainline\src\shop\nordstrom.web.external\mvc\mobileredirectactionfilter.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
-														<ViewBookmark Name="D:0:0:{757FBCF8-7745-4979-935E-5B71D0562076}|..\Nordstrom.Contracts\Nordstrom.Contracts\Nordstrom.Contracts.csproj|d:\dw-source\mainline\src\nordstrom.contracts\nordstrom.contracts\data\fashionsearch\fashion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
+														
 													</wm:WMDocumentGroup>
 													<wm:WMDocumentGroup DockedHeight="7.71604938271605" DockedWidth="2011">
 														<ViewBookmark Name="ST:0:0:{5e2a3c77-05ac-4964-a4fb-eccb7ea295c5}" AccessOrder="2" ViewBookmarkType="DocumentWell" DockedHeight="7.71604938271605" DockedWidth="2011"/>
@@ -1457,7 +1455,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 														<ViewBookmark Name="ST:3:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
 														<ViewBookmark Name="ST:5:0:{93a69444-e846-4571-9e03-a8433ad9ddf9}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
 														<ViewBookmark Name="ST:54:0:{cb4d394c-6408-4607-8c42-0910d3147a4e}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
-														<ViewBookmark Name="D:0:0:{332E7577-4A08-4DCD-B74E-4A7192001EE2}|Nordstrom.Web.External\Nordstrom.Web.External.csproj|d:\dw-source\mainline\src\shop\nordstrom.web.external\mvc\mobileredirectactionfilter.cs||{a6c744a8-0e4a-4fc6-886a-064283054674}" ViewBookmarkType="DocumentWell" DockedHeight="242.283950617284"/>
+														
 														<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="DontForceCreate" Name="ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}" DockedHeight="242.283950617284" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 														<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="DontForceCreate" Name="ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}" DockedHeight="242.283950617284" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
 														<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" Name="ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}" DockedHeight="242.283950617284" FloatingTop="100" FloatingLeft="100" FloatingHeight="450" FloatingWidth="450"/>
