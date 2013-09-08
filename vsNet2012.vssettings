@@ -76,6 +76,24 @@
 				<PropertyValue name="SearchPage">http://go.microsoft.com/fwlink/?LinkId=32722&amp;clcid=%vsspv_lcid_hex%</PropertyValue>
 			</ToolsOptionsSubCategory>
 		</ToolsOptionsCategory>
+		<ToolsOptionsCategory name="Projects" RegisteredName="Projects">
+			<ToolsOptionsSubCategory name="VBDefaults" RegisteredName="VBDefaults" PackageName="Visual Basic Project System">
+				<PropertyValue name="OptionCompare">0</PropertyValue>
+				<PropertyValue name="OptionInfer">1</PropertyValue>
+				<PropertyValue name="OptionStrict">0</PropertyValue>
+				<PropertyValue name="OptionExplicit">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VCGeneral" RegisteredName="VCGeneral" PackageName="Visual C++ Project System Package">
+				<PropertyValue name="ExtensionsToInclude">.cpp;.cxx;.cc;.c;.inl;.h;.hpp;.hxx;.hm;.inc;.rc;.resx;.idl;.rc2;.def;.odl;.asm;.asmx;.xsd;.bin;.rgs;.html;.htm;.manifest</PropertyValue>
+				<PropertyValue name="ToolFileSearchPaths"/>
+				<PropertyValue name="ShowEnvironmentInBuildLog">false</PropertyValue>
+				<PropertyValue name="ExtensionsToHide">.suo;.sln;.ncb;.sdf;.vcxproj;.csproj;.user;.vbproj;.scc;.vsscc;.vspscc;.old;.filters</PropertyValue>
+				<PropertyValue name="DefaultSolutionExplorerMode">0</PropertyValue>
+				<PropertyValue name="BuildTiming">false</PropertyValue>
+				<PropertyValue name="MaxConcurrentFileCompiles">0</PropertyValue>
+				<PropertyValue name="BuildLogging">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
 		<ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
 			<ToolsOptionsSubCategory name="FSharp" RegisteredName="FSharp" PackageName="Text Management Package">
 				<PropertyValue name="TabSize">4</PropertyValue>
@@ -620,7 +638,7 @@ CSS 3.0;CSS 3.0</PropertyValue>
 		</Category>
 		<Category name="Environment_SimplifiedToolsOptions" Category="{13BEDEE6-9051-4809-B9E3-2EEC749EB15A}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_SimplifiedToolsOptions" PackageName="Visual Studio Environment Package">
 			<PropertyValue name="SupportsSimpleToolsOptions">false</PropertyValue>
-			<PropertyValue name="ShowingAllPages">false</PropertyValue>
+			<PropertyValue name="ShowingAllPages">true</PropertyValue>
 			<PropertyValue name="ShowFlatList">false</PropertyValue>
 		</Category>
 		<Category name="Environment_SolutionExplorer" Category="{6FA9062F-82B2-4725-BA6D-58CF7CBA7DEA}" Package="{cf6a5c16-83b0-4d04-b702-195c35c6e887}" RegisteredName="Environment_SolutionExplorer" PackageName="Microsoft.VisualStudio.PlatformUI.SolutionNavigatorPackage">
